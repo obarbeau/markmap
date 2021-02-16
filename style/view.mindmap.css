@@ -8,8 +8,8 @@
 }
 
 .markmap-node-text {
-  fill:  #000;
-  font: 10px sans-serif;
+  fill: #000;
+  font: 12.7px Linux Libertine; /* sans-serif */
 }
 
 .markmap-link {

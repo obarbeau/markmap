@@ -9,7 +9,7 @@ d3.text("miam-cooking.md", function (error, text) {
   const data = transform(parse(text));
 
   markmap('svg#mindmap', data, {
-    preset: 'colorful', // or default
+    preset: 'oba', // colorful or default
     linkShape: 'diagonal' // or bracket
   });
 });
