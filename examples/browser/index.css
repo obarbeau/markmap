@@ -12,7 +12,8 @@ body {
   left: 0;
 }
 
-svg#mindmap {
-  width: 100%;
+svg#mindmap,
+svg#mindmap2 {
+  width: 49%;
   height: 100%;
 }
