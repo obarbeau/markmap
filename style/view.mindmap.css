@@ -15,3 +15,8 @@
 .markmap-link {
   fill: none;
 }
+
+svg#mindmap,
+svg#mindmap2 {
+  background-color: white;
+}
