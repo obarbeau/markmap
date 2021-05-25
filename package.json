@@ -3,7 +3,7 @@
   "version": "0.6.1",
   "description": "Visualize markdown documents as mindmaps",
   "scripts": {
-    "start": "shx mkdir -p dist && cp /home/olivier/dev/wiki/perso/miam-cooking*.md dist && parcel examples/browser/index.html --open",
+    "start": "shx mkdir -p dist && cp /home/olivier/dev/wiki/docs/perso/miam-cooking*.md dist && parcel examples/browser/index.html --open",
     "test": "jest",
     "dev": "jest --watch --notify"
   },
